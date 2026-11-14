@@ -1,0 +1,2 @@
+# SafeGen
+Memory-safe generation
