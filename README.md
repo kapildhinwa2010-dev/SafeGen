@@ -1,7 +1,8 @@
 # SafeGen
 
 [![CI](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/ci.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/ci.yml)
-[![CI](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/codeql.yml/badge.svg)](https://github.com/kapildhinwa2010-dev/SafeGen/actions/workflows/codeql.yml)
+
 
 Memory-budgeted matrix generation: estimate the footprint first, raise MemoryBudget if it does not fit.
 
